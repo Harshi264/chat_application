@@ -1,4 +1,4 @@
-# React Calling App 
+# React Calling App (by Gujjula Harshitha Reddy)
 
 ![callapp](https://i.ibb.co/rcxVVHC/callapp.png)
 
