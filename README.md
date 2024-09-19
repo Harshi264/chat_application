@@ -6,7 +6,7 @@
 ![zoomcall](https://i.ibb.co/xzkXv72/zoomcall.png)
 ## Call Screen
 ![sms](https://i.ibb.co/WFr1ds0/sms.png)
-#by Harshitha Reddy
-#Indian Institute of Technology, Patna
-#Mathematics and Computing Department
+##by Harshitha Reddy
+##Indian Institute of Technology, Patna
+##Mathematics and Computing Department
 
